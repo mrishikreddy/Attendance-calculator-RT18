@@ -8,12 +8,8 @@ A simple C program to help students calculate how many more classes they need to
 
 - [Installation Instructions](#installation-instructions)  
 - [Usage](#usage)  
-- [Features](#features)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgments](#acknowledgments)  
-- [Contact Information](#contact-information)  
-
+- [Features](#features)
+  
 ---
 
 ## Installation Instructions
@@ -65,12 +61,11 @@ enter the attendance percentage of all subjects:
 
 ---
 
-## ✨ Features
+## Features
 
 - Simulates total classes conducted from April 16 or May 1 to a selected date.
 - Calculates required future classes for 8 different subjects.
 - Uses a simple command-line interface.
 - Helpful for students to manage attendance proactively.
 
----
 
