@@ -4,7 +4,7 @@ A simple C program to help students calculate how many more classes they need to
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Installation Instructions](#installation-instructions)  
 - [Usage](#usage)  
@@ -16,7 +16,7 @@ A simple C program to help students calculate how many more classes they need to
 
 ---
 
-## 📥 Installation Instructions
+## Installation Instructions
 
 ### Prerequisites
 - A C compiler (like GCC)
@@ -24,20 +24,20 @@ A simple C program to help students calculate how many more classes they need to
 - Basic knowledge of how to compile and run C programs
 
 ### Steps
-1. Clone or download this repository.
-2. Open your terminal in the project directory.
-3. Compile the code using:
+step 1: Clone or download this repository.
+step 2: Open your terminal in the project directory.
+step 3: Compile the code using:
    ```bash
-   gcc attendance_calculator.c -o attendance_calculator -lm
+   gcc attendance_calculator.c -o attendance_calculator
    ```
-4. Run the compiled program:
+step 4: Run the compiled program:
    ```bash
    ./attendance_calculator
    ```
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Run the program in your terminal.
 2. Enter the **day and month number** when prompted (only April and May are considered).
@@ -74,33 +74,3 @@ enter the attendance percentage of all subjects:
 
 ---
 
-## 🤝 Contributing
-
-This was a solo project I (Rishik) did to learn more about C and how to apply logic to real-world student problems.  
-If you're interested in contributing, feel free to fork the repo or suggest improvements.
-
-> No CONTRIBUTING.md file exists yet — I'm still learning how to set up open-source contributions.
-
----
-
-## 📄 License
-
-This project doesn’t have an official license yet.  
-Feel free to use it for learning or improve upon it for personal or academic use.
-
----
-
-## 🙏 Acknowledgments
-
-- **Myself (Rishik)** – for building and debugging this code 😅  
-- The **C Programming Language** – for teaching me patience  
-- **Online references and class notes** – used for understanding logic and subject schedules  
-- No external libraries or frameworks were used — just standard C and `<math.h>`
-
----
-
-## 📬 Contact Information
-
-**Name:** Rishik  
-**Email:** *(you can add it if you want)*  
-**GitHub:** *(add your profile link if available)*
